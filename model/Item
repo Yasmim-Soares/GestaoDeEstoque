@@ -1,0 +1,39 @@
+<?php
+
+class Item {
+    private $id;
+    private $nome;
+    private $quantidade;
+    private $dataEntrada;
+
+    public function __construct($nome, $quantidade, $dataEntrada){
+        $this->setNome(($nome));
+        $this->setQuantidade($quantidade);
+        $this->setDataEntrada(($dataEntrada));
+    }
+
+
+    public function setNome($nome){
+        $this->nome = $nome;
+    }
+
+    public function getNome(){
+        return $this->nome;
+    }
+
+    public function setQuantidade($quantidade){
+        $this->quantidade = $quantidade;
+    }
+
+    public function getQuantidade(){
+        return $this->quantidade;
+    }
+
+    public function setDataEntrada($dataEntrada){
+        $this->dataEntrada = $dataEntrada;
+    }
+
+    public function getDataEntrada(){
+        return $this->dataEntrada;
+    }
+}
