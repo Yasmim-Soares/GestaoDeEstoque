@@ -1,6 +1,6 @@
 # 📝 Estoque
 
-Este repositório é destinado a um projeto pessoal de gestão de estoque, a haverá uma tela a onde o usúario poderá ler, exluir e deletar itens.
+Este repositório é destinado a um projeto pessoal de gestão de estoque, haverá uma tela a onde o usúario poderá ler, exluir e deletar itens.
 Projeto pessoal com o propósito de treinar o php.
 > **Nota:** Este repositório será atualizado com novas funcionalidades e telas com o tempo.
 ---
