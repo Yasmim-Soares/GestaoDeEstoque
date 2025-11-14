@@ -14,7 +14,7 @@ Projeto pessoal com o propósito de treinar o php.
 
 ---
 
-## 🧭 Estrutura dos Exercícios
+## 🧭 Estrutura do Projeto
 
 Projeto está armazenado no caminho src/.
 
